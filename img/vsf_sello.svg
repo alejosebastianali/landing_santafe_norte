@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+</style>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M1,50c0,27.1,21.9,49,49,49c0.2,0,0.4,0,0.6,0v0h32.3V86.3C92.8,77.3,99,64.4,99,50C99,22.9,77.1,1,50,1
+				C22.9,1,1,22.9,1,50"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<defs>
+				<rect id="SVGID_3_" x="-23.1" y="-2" width="146.9" height="103.8"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_4_);">
+				
+					<image style="overflow:visible;" width="750" height="530" xlink:href="7EE69A48.jpg"  transform="matrix(0.1959 0 0 0.1959 -23.1276 -2.0028)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
